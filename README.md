@@ -1,3 +1,5 @@
 # Internet-Bankacilik v2
 
-This is a sample file to demonstrate the integration between BitHub -> Jenkins -> ALM -> HP Test tools 
+
+This is a sample ReadMe file to show integration between GitHub -> Jenkins -> ALM -> HP Testing Tools [UFT/LR] 
+
